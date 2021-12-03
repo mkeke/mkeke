@@ -45,7 +45,8 @@ Code/docs: https://github.com/mkeke/2021-slide-puzzle
 
 <img src="img/slidepuzzle.png" />
 
-As the title suggests, solve the puzzle by sliding the tiles in the correct position.
+As the title suggests, solve the puzzle by sliding the tiles into position
+and revealing the image.
 Select the desired tile grid and shuffle between some predefined images.
 You can even add your own image by drag/drop, file upload or via your mobile camera.
 This game was made during devtober 2021. This is the first time I've had such a tight deadline for spare-time projects. I realized that I prefer much more time, so that I can feast on perfecting the details more. But it turned out nice! I'm particularly satisfied with the custom image features, aswell as the settings panel with all the nice SVG icons.
@@ -102,7 +103,7 @@ Code/docs: https://github.com/mkeke/c64-image-to-petscii
 
 <img src="img/petscii.png" />
 
-Have you ever wondered what an image would look like if it was converted to the Commodore 64 color palette, PETSCII character set and 80x24 standard character text mode environment? This is your lucky day! Drag-drop an image into the converter and watch the different conversion stages. Adjust brightness and saturation level to make the final image perfect. Download images from any stage, or even a fully functional C64 BASIC code that can be run in your emulator as proof!
+Have you ever wondered what an image would look like if it was converted to the Commodore 64 color palette, PETSCII character set and the 40x24 standard character text mode environment? This is your lucky day! Drag-drop an image onto the converter and watch the different conversion stages. Adjust brightness and saturation level to make the final image perfect. Download images from any stage, or even a fully functional C64 BASIC code that can be run in your emulator as proof!
 
 The house still looks like a house, right? Atleast now that you know it's a house..
 

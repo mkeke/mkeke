@@ -7,7 +7,8 @@ My name is Simen Lysebo.
 I work as a senior web developer at Schibsted Marketing Services in Oslo, Norway.
 
 I have a strong fondness for JavaScript, HTML, SVG and CSS.
-Below are some of my recent spare time projects,
+
+Below are some of my recent passion-based spare-time projects,
 because I can't get enough of them bits and bytes, ya know?
 
 Regarding the photo: It's the nearest color in the Commodore 64 color palette. The dominant color is set as background, and for each 8x8 pixel chunk the nearest color is kept. If you must know.
@@ -19,10 +20,10 @@ Feel free to check out
     - [Loopz](#loopz-2021)
     - [Tetris](#tetris-2021)
 - [Stuff](#stuff)
+    - [Analogue Digital SVG Clock](#analogue-digital-svg-clock-2022)
+- [Tools](#tools)
     - [Image to PETSCII Converter](#image-to-petscii-converter-2020)
     - [C64 BASIC Converter/Parser](#c64-basic-converterparser-2020)
-
-I will add more later.
 
 
 # Games
@@ -95,6 +96,18 @@ properly: I love programming.
 Created with vanilla JS. No frameworks were used because I wanted to be exposed to (and learn from) all the aspects involved.  
 
 # Stuff
+
+## Analogue Digital SVG Clock (2022)
+
+Try it: https://lysebo.xyz/misc/svg-clock/  
+Code/docs: https://github.com/mkeke/2022-svg-clock  
+
+<img src="img/svgclock.png" />
+
+A realtime digital clock where the digits are drawn using hands from
+"analogue" clock faces.
+
+# Tools
 
 ## Image to PETSCII Converter (2020)
 

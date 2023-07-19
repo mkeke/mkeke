@@ -15,11 +15,14 @@ Regarding the photo: It's the nearest color in the Commodore 64 color palette. T
 
 Feel free to check out  
 - [Games](#games)
+    - [Nurikabe](#nurikabe-2023)
+    - [Tic-Tac-Toe against AI](#tic-tac-toe-against-ai-2023)
     - [Knuts Kabal](#knuts-kabal-2021)
     - [Sliding Tile Puzzle](#sliding-tile-puzzle-2021)
     - [Loopz](#loopz-2021)
     - [Tetris](#tetris-2021)
 - [Stuff](#stuff)
+    - [Sierpinski Triangle](#sierpinski-triangle-2022)
     - [Analogue Digital SVG Clock](#analogue-digital-svg-clock-2022)
 - [Tools](#tools)
     - [Image to PETSCII Converter](#image-to-petscii-converter-2020)
@@ -27,6 +30,26 @@ Feel free to check out
 
 
 # Games
+
+## Nurikabe (2023)
+
+Try it: https://lysebo.xyz/games/nurikabe  
+Code/docs: currently private  
+
+<img src="img/nurikabe.png" />
+
+Nurikabe is a one-player logic puzzle game of Japanese origin. Each board can be solved exclusively by logic, and there is only one solution for each board. This game is created on top of 3000 boards in different sizes. The algorithm for generating and validating boards was started in September 2022 (different repo).
+
+
+## Tic-Tac-Toe against AI (2023)
+
+Try it: https://lysebo.xyz/games/ttt  
+Code/docs: https://github.com/mkeke/2023-ttt-game  
+
+<img src="img/ttt.png" />
+
+A classic! Created with an AI opponent using the Min-Max decision algorithm.
+
 
 ## Knuts Kabal (2021)
 
@@ -96,6 +119,16 @@ properly: I love programming.
 Created with vanilla JS. No frameworks were used because I wanted to be exposed to (and learn from) all the aspects involved.  
 
 # Stuff
+
+## Sierpinski Triangle (2022)
+
+Try it: https://lysebo.xyz/misc/sierpinski/  
+Code/docs: https://github.com/mkeke/2022-sierpinski  
+
+<img src="img/sierpinski.png" />
+
+Canvas animation of a Sierpinski Fractal.
+
 
 ## Analogue Digital SVG Clock (2022)
 

@@ -22,6 +22,7 @@ Feel free to check out
     - [Loopz](#loopz-2021)
     - [Tetris](#tetris-2021)
 - [Stuff](#stuff)
+    - [Silly Clock](#silly-clock-2024)
     - [Sierpinski Triangle](#sierpinski-triangle-2022)
     - [Analogue Digital SVG Clock](#analogue-digital-svg-clock-2022)
 - [Tools](#tools)
@@ -119,6 +120,16 @@ properly: I love programming.
 Created with vanilla JS. No frameworks were used because I wanted to be exposed to (and learn from) all the aspects involved.  
 
 # Stuff
+
+## Silly Clock (2024)
+
+Try it: https://lysebo.xyz/misc/silly-clock/  
+Code/docs: https://github.com/mkeke/2024-silly-clock
+
+<img src="img/sillyclock.png" />
+
+A normal clock with a silly mode.
+
 
 ## Sierpinski Triangle (2022)
 

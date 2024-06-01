@@ -4,7 +4,7 @@
 
 My name is Simen Lysebo.
 
-I work as a senior web developer at Schibsted Marketing Services in Oslo, Norway.
+I'm a fullstack developer at TV 2 in Oslo, Norway.
 
 I have a strong fondness for JavaScript, HTML, SVG and CSS.
 
